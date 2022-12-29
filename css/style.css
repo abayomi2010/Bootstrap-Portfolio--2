@@ -1,0 +1,25 @@
+ /* body{
+    background-color: rgb(48, 95, 146) !important;
+} */
+
+.name{
+    display: block;
+    color: #097af3;
+}
+/* Jumbotron */
+
+/* .jumb{
+    background-color: rgb(27, 26, 26) !important;
+    background: url("../images/IMG_0635.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1700px !important;
+    color: #f5f5f5 !important;
+}
+
+
+@media screen and (max-width: 576px){
+    .jumb {
+        min-height: 850px !important;
+      }
+}  */
